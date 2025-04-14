@@ -27,12 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a passionate and results-driven software developer with over 10 years of experience, currently specializing in the .NET development platform. Throughout my career, I’ve had the opportunity to work on large-scale enterprise and government projects through renowned consulting firms such as Accenture and, more recently, Capgemini Engineering.
+I’m a software developer with over 10 years of experience, currently focused on the .NET development platform. I've contributed to large-scale enterprise and government projects through well-known consulting firms like Accenture and, most recently, Capgemini Engineering. My work has spanned sectors such as road infrastructure, public works, military systems, government digital certification, banking, IoT, real estate, and delivery services.
 
-My professional journey spans diverse sectors including road infrastructure, public works management, military systems, government digital certification, banking, IoT, real estate, delivery services, and more. This broad exposure has sharpened both my technical expertise and my ability to adapt to different business contexts.
+I approach my work with professionalism, responsibility, and a constant drive to improve. I value clear communication, strong collaboration, and delivering quality solutions while maintaining a balanced and sustainable workflow.
 
-I pride myself on my strong interpersonal skills and my ability to thrive in both collaborative and leadership roles. My persistence, integrity, and commitment to delivering high-quality solutions are core to how I approach each project. I’m deeply committed to continuous learning and knowledge sharing, always aiming to grow without compromising a healthy work-life balance.
+Over the years, I’ve also taken part in onboarding and knowledge-sharing initiatives, which strengthened my role as a technical mentor and opened opportunities to develop structured training content. My experience with software requirements and visual design allows me to bridge the gap between technical teams, clients, and design or marketing departments.
 
-In addition to hands-on development, I’ve actively participated in knowledge transfer initiatives and the onboarding of new team members—experiences that have enhanced my mentoring abilities. This has inspired me to create structured training materials, which I plan to publish soon. My background also includes experience in software requirements analysis and a solid foundation in visual design, allowing me to effectively bridge the gap between technical, creative, and business teams.
-
-Whether you're looking for a fullstack or backend developer who brings both technical depth and strong communication to the table, I’m ready to contribute and grow alongside your team or project.
+If you’re looking for a fullstack or backend developer who combines solid technical delivery with adaptability and strong team integration, I’d be glad to connect.
