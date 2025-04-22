@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a passionate and results-driven software developer with over 10 years of experience, currently specializing in the .NET development platform. Throughout my career, I’ve had the opportunity to work on large-scale enterprise and government projects through renowned consulting firms such as Accenture and, more recently, Capgemini Engineering.
+I'm a passionate and results-driven software developer with over 10 years of experience, specializing in the .NET development platform. Throughout my career, I’ve had the opportunity to work on large-scale enterprise and government projects through renowned consulting firms such as Accenture and, more recently, Capgemini Engineering.
 
 My professional journey spans diverse sectors including road infrastructure, public works management, military systems, government digital certification, banking, IoT, real estate, delivery services, and more. This broad exposure has sharpened both my technical expertise and my ability to adapt to different business contexts.
 
